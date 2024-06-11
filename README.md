@@ -1,4 +1,4 @@
-### Initia-monitor
+### Initia-Monitor
 
 Initia-Monitor: This tool is to monitor the status of the node/validator.
 

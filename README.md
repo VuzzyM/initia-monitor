@@ -116,3 +116,5 @@ git pull
 sudo docker-compose pull
 sudo docker-compose up -d
 ```
+
+The source of the tool can be found here - [nodejumper](https://github.com/nodejumper-org/monitoring-tool?tab=readme-ov-file)

@@ -23,7 +23,7 @@ Initia-Monitor: This tool is to monitor the status of the node/validator.
 - [prometheus](https://hub.docker.com/r/prom/prometheus)
 - [alertmanager](https://hub.docker.com/r/prom/alertmanager)
 
-## Login Data http://<your_server_ip>:3000**
+## Login Data http://<your_server_ip>:3000
 
  - username: admin
  - default password: admin
